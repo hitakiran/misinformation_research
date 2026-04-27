@@ -3,7 +3,11 @@
 This repository explores themes in junk science news articles using BERTopic, a transformer-based topic modeling library. The goal is to uncover different **junk science topics** across thousands of articles that are labeled as junk science.
 
 ---
+## Repository Contents
 
+My research report: https://uillinoisedu-my.sharepoint.com/:w:/g/personal/jpchen_illinois_edu/IQBegUkqq259Q4ewy4nv_-6nAd91YKuxTk6lnwMWFGwVZ2Y?e=1HNSuI
+
+---
 ## Repository Contents
 
 - **`junksci_topic_model.ipynb`**  
