@@ -5,7 +5,7 @@ This repository explores themes in junk science news articles using BERTopic, a 
 ---
 ## Repository Contents
 
-My research report: 
+My research report: [📄 View Document (PDF)](./Research-Paper.pdf)
 
 ---
 ## Repository Contents
